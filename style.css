@@ -1,0 +1,32 @@
+/* Changing text color */
+body {
+    color: #333; /* Hex color code or color name */
+}
+
+/* Changing font family */
+h1, p {
+    font-family: Arial, sans-serif;
+}
+/* Setting background color */
+body {
+    background-color: #f4f4f4;
+}
+/* Adjusting margins and padding */
+div {
+    margin: 10px; /* Margin around the element */
+    padding: 10px; /* Padding inside the element */
+}
+/* Text alignment and decoration */
+h2 {
+    text-align: center; /* Aligning text to the center */
+    text-decoration: underline; /* Adding underline to text */
+}
+/* Styling links */
+a {
+    color: #007bff; /* Link color */
+    text-decoration: none; /* Removing underline */
+}
+
+a:hover {
+    text-decoration: underline; /* Adding underline on hover */
+}
